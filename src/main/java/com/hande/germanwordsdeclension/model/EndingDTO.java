@@ -20,5 +20,5 @@ public class EndingDTO {
 
     @NotNull
     @Size(min = 3, max = 3)
-    private String articel;
+    private String artikel;
 }

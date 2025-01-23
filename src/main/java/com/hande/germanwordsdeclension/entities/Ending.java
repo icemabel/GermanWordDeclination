@@ -5,19 +5,22 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
 import lombok.*;
-import org.springframework.boot.autoconfigure.domain.EntityScan;
-import org.springframework.stereotype.Service;
 
-@Getter
-@Setter
-@Builder
-@Entity
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
+@Builder
 public class Ending {
 
     @NotBlank
     @NotNull
     @Size(min = 1, max = 255)
     private String ending;
+
+    @NotNull
+    @NotBlank
+    @Size(min = 3, max = 3)
+    private String artikel;
+
+    private String example;
 }
