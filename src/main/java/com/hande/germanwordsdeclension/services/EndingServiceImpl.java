@@ -12,11 +12,15 @@ import java.util.stream.Collectors;
 
 @Slf4j
 @Service
-@RequiredArgsConstructor
 public class EndingServiceImpl implements EndingService {
 
     private final EndingRepository endingRepository;
     private final EndingMapper endingMapper;
+
+    public EndingServiceImpl(EndingRepository endingRepository, EndingMapper endingMapper) {
+        this.endingRepository = endingRepository;
+        this.endingMapper = endingMapper;
+    }
 
     @Override
     public List<EndingDTO> getAllEndings() {

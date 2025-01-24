@@ -1,56 +1,56 @@
-Ending;Artikel
--ling (e.g., der Schmetterling – butterfly);Der
--ig (e.g., der König – king);Der
--ner (e.g., der Rentner – retiree);Der
--ismus (e.g., der Kapitalismus – capitalism);Der
--er (e.g., der Lehrer – teacher);Der
--el (e.g., der Apfel – apple);Der
--en (e.g., der Garten – garden);Der
--or (e.g., der Motor – motor);Der
--eur (e.g., der Ingenieur – engineer);Der
--ent (e.g., der Student – student);Der
--ant (e.g., der Elefant – elephant);Der
--us (e.g., der Bonus – bonus);Der
--ist (e.g., der Pianist – pianist);Der
--oge (e.g., der Pädagoge – pedagogue);Der
--ich (e.g., der Teppich – carpet);Der
--ast (e.g., der Kontrast – contrast);Der
--erich (e.g., der Zuckerich – sugar-lover, regional);Der
--and (e.g., der Doktorand  – doctoral student);Der
--ör (e.g., der Likör – liqueur);Der
--ung (e.g., die Zeitung – newspaper);Die
--heit (e.g., die Freiheit – freedom);Die
--keit (e.g., die Höflichkeit – politeness);Die
--schaft (e.g., die Freundschaft – friendship);Die
--tät (e.g., die Universität – university);Die
--(t)ion (e.g., die Nation – nation);Die
--ik (e.g., die Musik – music);Die
--ei (e.g., die Bäckerei – bakery);Die
--ie (e.g., die Biologie – biology);Die
--enz (e.g., die Konferenz – conference);Die
--anz (e.g., die Eleganz – elegance);Die
--ur (e.g., die Natur – nature);Die
--in (e.g., die Ärztin – female doctor);Die
--ine (e.g., die Maschine – machine);Die
--euse (e.g., die Friseuse – hairdresser);Die
--a (e.g., die Villa – villa);Die
--ät (e.g., die Identität – identity);Die
--e (e.g., die Lampe – lamp);Die
--sis (e.g., die Basis  – basis);Die
--age (e.g., die Garage   – garage);Die
--ade (e.g., die Marmelade – marmalade);Die
--chen (e.g., das Mädchen – girl);Das
--lein (e.g., das Fräulein – young lady);Das
--ment (e.g., das Dokument – document);Das
--tum (e.g., das Eigentum – property);Das
--um (e.g., das Zentrum – center);Das
--ma (e.g., das Drama – drama);Das
--nis (e.g., das Ergebnis – result);Das
--sal (e.g., das Schicksal – fate);Das
--tel (e.g., das Viertel – quarter/district);Das
--ett (e.g., das Tablett – tray);Das
--ium (e.g., das Studium – studies);Das
--o (e.g., das Auto – car);Das
--icht (e.g., das Licht – light);Das
--il (e.g., das Profil  – profile);Das
--it (e.g., das Dynamit   – dynamite);Das
+Ending,Artikel,Example
+-ling,Der,der Schmetterling
+-ig,Der,der König
+-ner,Der,der Rentner
+-ismus,Der,der Kapitalismus
+-er,Der,der Lehrer
+-el,Der,der Apfel
+-en,Der,der Garten
+-or,Der,der Motor
+-eur,Der,der Ingenieur
+-ent,Der,der Student
+-ant,Der,der Elefant
+-us,Der,der Bonus
+-ist,Der,der Pianist
+-oge,Der,der Pädagoge
+-ich,Der,der Teppich
+-ast,Der,der Kontrast
+-erich,Der,der Zuckerich
+-and,Der,der Doktorand
+-ör,Der,der Likör
+-ung,Die,die Zeitung
+-heit,Die,die Freiheit
+-keit,Die,die Höflichkeit
+-schaft,Die,die Freundschaft
+-tät,Die,die Universität
+-(t)ion,Die,die Nation
+-ik,Die,die Musik
+-ei,Die,die Bäckerei
+-ie,Die,die Biologie
+-enz,Die,die Konferenz
+-anz,Die,die Eleganz
+-ur,Die,die Natur
+-in,Die,die Ärztin
+-ine,Die,die Maschine
+-euse,Die,die Friseuse
+-a,Die,die Villa
+-ät,Die,die Identität
+-e,Die,die Lampe
+-sis,Die,die Basis
+-age,Die,die Garage
+-ade,Die,die Marmelade
+-chen,Das,das Mädchen
+-lein,Das,das Fräulein
+-ment,Das,das Dokument
+-tum,Das,das Eigentum
+-um,Das,das Zentrum
+-ma,Das,das Drama
+-nis,Das,das Ergebnis
+-sal,Das,das Schicksal
+-tel,Das,das Viertel
+-ett,Das,das Tablett
+-ium,Das,das Studium
+-o,Das,das Auto
+-icht,Das,das Licht
+-il,Das,das Profil
+-it,Das,das Dynamit

@@ -1,26 +1,22 @@
 package com.hande.germanwordsdeclension.entities;
 
 import jakarta.persistence.Entity;
-import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.NotNull;
-import jakarta.validation.constraints.Size;
-import lombok.*;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import lombok.Getter;
+import lombok.Setter;
 
-@Data
-@NoArgsConstructor
-@AllArgsConstructor
-@Builder
+@Entity
+@Getter
+@Setter
 public class Ending {
 
-    @NotBlank
-    @NotNull
-    @Size(min = 1, max = 255)
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
     private String ending;
-
-    @NotNull
-    @NotBlank
-    @Size(min = 3, max = 3)
     private String artikel;
-
     private String example;
 }

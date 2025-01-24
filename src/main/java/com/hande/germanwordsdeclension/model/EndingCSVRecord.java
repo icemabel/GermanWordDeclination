@@ -2,13 +2,13 @@ package com.hande.germanwordsdeclension.model;
 
 
 import com.opencsv.bean.CsvBindByName;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+@Getter
+@Setter
 public class EndingCSVRecord {
     @CsvBindByName
     private String ending;

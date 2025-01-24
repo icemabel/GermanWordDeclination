@@ -7,4 +7,6 @@ import java.util.List;
 
 public interface EndingCsvService {
     List<EndingCSVRecord> convertCSV(File file);
+
+    void readCsvAndSave(String filePath);
 }
